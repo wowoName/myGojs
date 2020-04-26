@@ -28,3 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # gojsDemo
+
+###   gojs  
+实现流程图  泳道图
+```
