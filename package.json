@@ -12,7 +12,7 @@
     "dayjs": "^1.8.14",
     "gantt-elastic": "^1.0.0",
     "gantt-elastic-header": "^0.1.11",
-    "gojs": "^2.1.13",
+    "gojs": "^2.1.28",
     "quasar": "^1.0.0-beta.23",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6"
